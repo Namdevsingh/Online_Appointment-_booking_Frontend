@@ -36,7 +36,7 @@ const Hero = () => {
             </div>
             
             <div className="flex items-center gap-4 pt-6 text-[10px] text-slate-500 font-black uppercase tracking-widest">
-              <p>Loved by 10,000+ businesses world-wide</p>
+               {/* Text removed as requested */}
             </div>
           </div>
 
